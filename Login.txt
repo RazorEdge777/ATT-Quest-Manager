@@ -1,6 +1,6 @@
-Name: PlayerNameHere
-Password: PasswordHere
-Server ID: 1234567890
+Name: killer235439 
+Password: Maxmac1981
+Server ID: 1348876048
 
 
 //////////////////////
